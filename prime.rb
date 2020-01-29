@@ -1,5 +1,5 @@
 require 'pry'
 
-def prime?
+def prime?(num)
   
 end
